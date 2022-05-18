@@ -1,5 +1,4 @@
 <h1>Line</h1>
-    <hr>
     <P>Este é um projeto de criação de uma loja online <br>Acesse em: (link)<br><br>O que já foi feito? Veja abaixo:</P>
     <ul style="list-style: none; padding: 0;">
         <li><input type="checkbox" name="name" id="name" checked>Inicialização do template</li> 
