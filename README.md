@@ -3,5 +3,5 @@
 
 - [x] Página Inicial
 - [x] Página de Produtos Categorizados
-- [] Página Carrinho
-- [] FastAcess Carrinho
+- [x] Página Carrinho
+- [x] FastAcess Carrinho
